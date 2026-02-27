@@ -1,8 +1,9 @@
 ![](https://komarev.com/ghpvc/?username=knkrc&color=blue&style=flat-square)
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=knkrc&show_icons=true&theme=radical)](https://github.com/knkrc)
-
-[![My Favorite Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=knkrc&layout=compact&theme=radical)](https://github.com/knkrc)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=knkrc&show_icons=true&theme=radical" alt="knkrc GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=knkrc&layout=compact&theme=radical" alt="knkrc Top Langs" />
+</p>
 
 <!--
 **knkrc/knkrc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
